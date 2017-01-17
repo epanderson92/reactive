@@ -21,6 +21,12 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "mongoose": "^4.7.7",
-    "morgan": "^1.7.0"
+    "morgan": "^1.7.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-install": "2.1.0",
+    "webpack": "^1.14.0"
   }
 }
